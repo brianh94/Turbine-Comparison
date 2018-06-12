@@ -1,5 +1,5 @@
 # 2016 Turbine-Comparison
-Variables: (Data gathered from Generation comparison - SPPWR by TG worksheet)
+Variables: (Data gathered from Generation comparison - SPPWR by TG worksheet)\n
 x – Rotor Area (m¬2)
 y – Turbine Size (kW)
 z – Group CF
