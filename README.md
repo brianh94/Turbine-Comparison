@@ -3,10 +3,10 @@ Variables: (Data gathered from Generation comparison - SPPWR by TG worksheet)
 
 * x – Rotor Area (m¬2)
 
-y – Turbine Size (kW)
+* y – Turbine Size (kW)
 
-z – Group CF
+* z – Group CF
 
-Color – WRA 
+* Color – WRA 
 
-Size – Turbine Count
+* Size – Turbine Count
