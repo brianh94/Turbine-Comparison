@@ -1,4 +1,5 @@
 library('rio')
+Sys.sleep(.5)
 library('plotly')
 tg_comparison<-import("2016_TG_comparison.csv")
 #		w/ labels
@@ -8,3 +9,4 @@ tg<- plot_ly(tg_comparison, x = ~RotorArea_m2, y = ~Capacity_kW, z = ~GroupCF,si
   layout(scene = list(xaxis = list(title = 'Rotor Area (m^2)'),
                       yaxis = list(title = 'Turbine Capacity (kW)'),
                       zaxis = list(title = 'Group CF')))
+tg
