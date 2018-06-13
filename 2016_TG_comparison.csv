@@ -1,0 +1,175 @@
+PlantID,Project,County,WRA,TurbineCount,TurbineID,Manufacturer,Model,RotorArea_m2,Capacity_kW,GroupCapacity_kW,GroupCF
+W0275,85A,Kern,Tehachapi,157,Remote 2,Vestas,V17,227,90,14130,0.129003338
+W0276,85B,Kern,Tehachapi,235,Remote 1,Vestas,V17,227,90,21150,0.110889862
+W0370,Alta I Wind Energy Center,Kern,Tehachapi,100,AW1,General Electric,GE 1.5 SLE,4657,"1,500",150000,0.316915895
+W0372,Alta II Wind Energy Center,Kern,Tehachapi,50,AW2,Vestas,V90,6362,"3,000",150000,0.275319412
+W0387,Alta III Wind Energy Center,Kern,Tehachapi,50,AW3,Vestas,V90,6362,"3,000",150000,0.291523285
+W0388,Alta IV Wind Energy Center,Kern,Tehachapi,34,AW4,Vestas,V90,6362,"3,000",102000,0.206994474
+W0389,Alta V Wind Energy Center,Kern,Tehachapi,56,AW5,Vestas,V90,6362,"3,000",168000,0.20144099
+W0393,"Alta Wind VIII, LLC",Kern,Tehachapi,50,VE250 to VE299,Vestas,V90,6362,"3,000",150000,0.226654346
+W0441,Alta X Wind Energy Center,Kern,Tehachapi,48,AW10,General Electric,GE 2.85,8332,"2,850",136800,0.310776111
+W0442,Alta XI Wind Energy Center,Kern,Tehachapi,41,AW11,General Electric,GE 1.7,8012,"1,700",69700,0.353172994
+W0442,Alta XI Wind Energy Center,Kern,Tehachapi,7,AW11,General Electric,GE 2.85,8332,"2,850",19950,0.353172994
+W0292,Altech III,Riverside,San Gorgonio,53,Altwind Sub,Micon,M65/13,177,65,3445,0.223795871
+W0292,Altech III,Riverside,San Gorgonio,201,Altwind Sub,Micon,108,293,108,21708,0.223795871
+W0398,Anheuser-Busch,Solano,Outside of Existing,1,1,General Electric,GE 1.5 SLE,4657,"1,500",1500,0.182078704
+W0456,Anheuser-Busch #2,Solano,Outside of Existing,1,1,General Electric,GE 1.85,5345,"1,600",1600,0.282914532
+W0426,Buena Vista Energy LLC,Contra Costa,Altamont,38,Buena Vista,Mitsubishi Heavy Industries,1000a,2960,"1,000",38000,0.284496723
+W0452,Cabazon Wind,Riverside,San Gorgonio,1,WT,RRB,600,2209,600,600,0.401297814
+W0452,Cabazon Wind,Riverside,San Gorgonio,51,WT,ZOND,Z-750,2304,750,38250,0.401297814
+W0258,"Cabazon Wind Partners, LLC",Riverside,San Gorgonio,62,All,Vestas,V47,1735,660,40920,0.325109898
+W0407,Cameron Ridge,Kern,Tehachapi,34,Micon 108,Micon,108,281,108,3672,0.342343687
+W0407,Cameron Ridge,Kern,Tehachapi,80,Micon 700,Micon,700,1521,700,56000,0.342343687
+W0403,Cemex BMQ,San Bernardino,Other Resource Area,2,GE 1.5 SLE,General Electric,GE 1.5 SLE,4657,"1,500",3000,0.128768025
+W0399,Cemex Madison,Yolo,Other Resource Area,1,1,General Electric,GE 1.5 SLE,4657,"1,000",1000,0.181880351
+W0404,Cemex River Plant,San Bernardino,Other Resource Area,2,1,General Electric,GE 1.62 SLE,5346,"1,620",3240,0.104447305
+W0455,City of Soledad,Monterey,Other Resource Area,1,1,General Electric,GE 1.85 SLE,5345,"1,000",1000,0.49029679
+W0408,"Coram California Development, L.P.",Kern,Tehachapi,34,WTG01 to WTG34,Vestas,V90,6362,"3,000",102000,0.319686796
+W0463,Coram Energy LLC,Kern,Tehachapi,10,BT 3,General Electric,GE 1.5,4657,"1,500",15000,0.385208235
+W0445,Coram Tehachapi LP,Kern,Tehachapi,29,BT 4,Vestas,V27,573,225,6525,0.245879778
+W0423,Diablo Wind LLC,Alameda,Altamont,31,Vesta V-47,Vestas,V47,1735,580,17980,0.187089835
+W0365,Difwind Farms LTD I,Riverside,San Gorgonio,67,All,Micon,108,293,108,7236,0.186578712
+W0366,Difwind Farms LTD II,Riverside,San Gorgonio,36,All,Micon,M65/13,201,65,2340,0.137414949
+W0366,Difwind Farms LTD II,Riverside,San Gorgonio,28,All,Micon,108,293,108,3024,0.137414949
+W0386,Difwind Farms LTD V,Riverside,San Gorgonio,107,All,Micon,108,293,108,11556,0.137295466
+W0374,Difwind Farms LTD VI,Kern,Tehachapi,209,All,Micon,108,293,108,22572,0.193705103
+W0364,Dillon Wind,Riverside,San Gorgonio,45,All,Mitsubishi Power System Inc,MWT-1000,2690,"1,000",45000,0.360714473
+W0439,Dutch Energy Wind Farm,Riverside,San Gorgonio,19,Dutch,NedWind,NedWind 40,1256,500,9500,0.22710289
+W0278,East Winds Project,Riverside,San Gorgonio,7,All,NEG Micon,NM1500,1452,600,4200,0.255127279
+W0380,EDF Renewable Windfarm V Inc,Solano,Solano,65,Kenetech,Kenetech,86-100,229,100,6500,0.264866563
+W0380,EDF Renewable Windfarm V Inc,Solano,Solano,6,GE,General Electric,GE 1.5,4657,"1,500",9000,0.264866563
+W0391,"Edom Hills Project 1, LLC",Riverside,San Gorgonio,8,Edom 1-8,Clipper,Liberty C93,6793,"2,500",20000,0.258393312
+W0268,EUIPH Wind Farm,Riverside,San Gorgonio,59,Bonus 65,Bonus,65,181,65,3835,0.212475057
+W0268,EUIPH Wind Farm,Riverside,San Gorgonio,22,Micon 108,Micon,105,246,108,2376,0.212475057
+W0268,EUIPH Wind Farm,Riverside,San Gorgonio,64,Bonus 120,Bonus,B19/120,246,120,7680,0.212475057
+W0268,EUIPH Wind Farm,Riverside,San Gorgonio,9,Nordtank 150,Nordtank,150,200,150,1350,0.212475057
+W0268,EUIPH Wind Farm,Riverside,San Gorgonio,10,Nordex 1000,Nordex,1000,2122,"1,000",10000,0.212475057
+W0371,FPL Energy Montezuma Winds LLC,Solano,Solano,16,1,Siemens,SWT-2.3-93,6789,"2,300",36800,0.280241435
+W0440,Garnet Wind Energy Center,Riverside,San Gorgonio,13,Garnet,NedWind,NedWind 40,1256,500,6500,0.329104806
+W0390,Golden Acorn Casino,San Diego,East San Diego,1,1,General Electric,GE 1.85 SLE,5345,"1,000",1000,0.403617372
+W0461,Golden Hills,Alameda,Altamont,48,1,General Electric,GE 1.79 MW,7450,"1,790",85920,0.374494449
+W0299,Green Power I,Riverside,San Gorgonio,2,WT,RRB,600,2209,600,1200,0.158842995
+W0299,Green Power I,Riverside,San Gorgonio,20,WT,ZOND,Z-750,1963,750,15000,0.158842995
+W0369,"Hatchet Ridge Wind, LLC",Shasta,Other Resource Area,44,HRW,Siemens,SWT-2.3-93,6797,"2,300",101200,0.328265954
+W0429,Helzel & Schwarzhoff 88,Kern,Tehachapi,20,MM4-MM5,Vestas,V17,227,75,1500,0.20725787
+W0355,High Winds,Solano,Solano,90,All,Vestas,V80,5024,"1,800",162000,0.220859181
+W0397,IEUA,San Bernardino,Other Resource Area,1,1,Mitsubishi,MWT-1000,2961,"1,000",1000,0.071750455
+W0354,International Turbine Research Inc.,Merced,Pacheco,20,316-337,Vestas,V17,227,90,1800,0.249260315
+W0354,International Turbine Research Inc.,Merced,Pacheco,20,101-120,Vestas,V17E,278,110,2200,0.249260315
+W0354,International Turbine Research Inc.,Merced,Pacheco,10,501-510,Nordtank,NTK 65-13,216,75,750,0.249260315
+W0354,International Turbine Research Inc.,Merced,Pacheco,15,301-315,Nordtank,NTK 65-13,216,75,1125,0.249260315
+W0354,International Turbine Research Inc.,Merced,Pacheco,92,201-296,Wincon,W108,301,110,10120,0.249260315
+W0354,International Turbine Research Inc.,Merced,Pacheco,4,401-404,Wincon,W200,452,240,960,0.249260315
+W0354,International Turbine Research Inc.,Merced,Pacheco,1,601,Nordtank,NTK500/41,1325,575,575,0.249260315
+W0354,International Turbine Research Inc.,Merced,Pacheco,1,901,NEG Micon,NM900,2140,900,900,0.249260315
+W0286,Karen Avenue Wind Farm,Riverside,San Gorgonio,6,V39s,Vestas,V39,1195,450,2700,0.337603007
+W0286,Karen Avenue Wind Farm,Riverside,San Gorgonio,6,GE1.5s,General Electric,GE 1.5,3904,"1,500",9000,0.337603007
+W0359,Kumeyaay Wind Farm,San Diego,East San Diego,25,Kumeyaay,Gamesa,G87/2000,5945,"2,000",50000,0.327308083
+W0420,Manzana Wind,Kern,Tehachapi,126,All,General Electric,GE 1.5 SLE,4657,"1,500",189000,0.325581908
+W0260,Mesa Wind Power Corporation,Riverside,San Gorgonio,460,30 WTGs,Vestas,V15,177,65,29900,0.027822573
+W0259,Mogul Energy,Kern,Tehachapi,8,All,Mitsubishi,MWT-500,1257,500,4000,0.025846198
+W0313,"Mojave 16, 17, 18",Kern,Tehachapi,267,MHI 250,Mitsubishi,MWT-250,616,250,66750,0.184553172
+W0313,"Mojave 16, 17, 18",Kern,Tehachapi,28,MHI 600,Mitsubishi,MWT-600,1590,600,16800,0.184553172
+W0312,Mojave 3,Kern,Tehachapi,94,WT,Mitsubishi,MWT-250,616,250,23500,0.317993291
+W0443,Mojave 4,Kern,Tehachapi,116,WT,Mitsubishi,MWT-250,616,250,29000,0.319252595
+W0444,Mojave 5,Kern,Tehachapi,90,WT,Mitsubishi,MWT-250,616,250,22500,0.336904336
+W0392,Montezuma Wind II,Solano,Solano,34,1,Siemens,SWT-2.3-93,6789,"2,300",78200,0.221342778
+W0450,Mountain View I,Riverside,San Gorgonio,74,MWT-600,Mitsubishi,MWT-600,1590,600,44400,0.333699504
+W0451,Mountain View II,Riverside,San Gorgonio,37,74-01,Mitsubishi,MWT-600,1590,600,22200,0.323641608
+W0360,Mountain View III,Riverside,San Gorgonio,34,All,Vestas,V47,1735,660,22440,0.37414581
+W0430,Mountain View IV,Riverside,San Gorgonio,49,A01,Mitsubishi,MWT-1000,2960,"1,000",49000,0.406254663
+W0406,Mustang Hills LLC,Kern,Tehachapi,50,6319,Vestas,V90,6362,"3,000",150000,0.23875889
+W0402,Nestle Waters,Riverside,San Gorgonio,2,1,General Electric,GE 1.6 XLE,5346,"1,620",3240,0.48454183
+W0414,"North Sky River, LLC",Kern,Tehachapi,100,WT,General Electric,XLE ESS,7854,"1,620",162000,0.326332607
+W0319,Oak Creek Wind Power,Kern,Tehachapi,7,Phase 1,NEG Micon,NM600,1452,600,4200,0.285602801
+W0319,Oak Creek Wind Power,Kern,Tehachapi,3,Phase 2AB,NEG Micon,NM900,2124,900,2700,0.285602801
+W0319,Oak Creek Wind Power,Kern,Tehachapi,1,Phase 2C,NEG Micon,NM1500,4072,"1,500",1500,0.285602801
+W0319,Oak Creek Wind Power,Kern,Tehachapi,33,Phase 2,NEG Micon,NM700,1820,700,23100,0.285602801
+W0385,"Oasis Power Partners, LLC",Kern,Tehachapi,60,All,Mitsubishi,MHI 1000,2552,"1,000",60000,0.34416253
+W0409,Ocotillo Express LLC,Imperial,East San Diego,112,OWE,Siemens,SWT-2.3-108,9144,"2,370",265440,0.230575247
+W0367,"Pacific Wind Project, LLC",Kern,Tehachapi,70,All,REpower,MM92,6720,"2,050",143500,0.265391462
+W0311,Painted Hills Wind Developers,Riverside,San Gorgonio,65,V-15,Vestas,V15,165,65,4225,0.261041027
+W0311,Painted Hills Wind Developers,Riverside,San Gorgonio,166,V-17,Vestas,V17,254,90,14940,0.261041027
+W0368,Pine Tree Wind Power Plant,Kern,Tehachapi,16,GE 1.5 Cable D,General Electric,GE 1.5 SLE,4657,"1,500",24000,0.181490636
+W0368,Pine Tree Wind Power Plant,Kern,Tehachapi,12,GE 1.5 Cable E,General Electric,GE 1.5 SLE,4657,"1,500",18000,0.181490636
+W0368,Pine Tree Wind Power Plant,Kern,Tehachapi,16,GE 1.5 Cable B,General Electric,GE 1.5 SLE,4657,"1,500",24000,0.181490636
+W0368,Pine Tree Wind Power Plant,Kern,Tehachapi,16,GE 1.5 Cable F,General Electric,GE 1.5 SLE,4657,"1,500",24000,0.181490636
+W0368,Pine Tree Wind Power Plant,Kern,Tehachapi,16,GE 1.5 Cable A,General Electric,GE 1.5 SLE,4657,"1,500",24000,0.181490636
+W0368,Pine Tree Wind Power Plant,Kern,Tehachapi,14,GE 1.5 Cable C,General Electric,GE 1.5 SLE,4657,"1,500",21000,0.181490636
+W0415,Pinyon Pines Winds I,Kern,Tehachapi,56,PPI,Vestas,V90,6362,"3,000",168000,0.238313476
+W0416,Pinyon Pines Winds II,Kern,Tehachapi,44,PPII,Vestas,V90,6362,"3,000",132000,0.219051069
+W0297,Ridgetop Energy,Kern,Tehachapi,26,Vestas V-39,Vestas,V39,1195,500,13000,0.291615525
+W0297,Ridgetop Energy,Kern,Tehachapi,3,Vestas V-47,Vestas,V47,1735,660,1980,0.291615525
+W0297,Ridgetop Energy,Kern,Tehachapi,163,Nordtank 75,Nordtank,75,154,75,12225,0.291615525
+W0297,Ridgetop Energy,Kern,Tehachapi,12,Micon 108,Micon,108,281,108,1296,0.291615525
+W0265,Ridgetop Energy II,Kern,Tehachapi,71,Vestas V-47,Vestas,V47,1735,660,46860,0.367110255
+W0458,Rising Tree Wind Farm I,Kern,Tehachapi,24,Rising Tree I,Vestas,V112,9852,"3,300",79200,0.352248382
+W0459,Rising Tree Wind Farm II,Kern,Tehachapi,6,Rising Tree II,Vestas,V112,9852,"3,300",19800,0.342479479
+W0438,Rising Tree Wind Farm III,Kern,Tehachapi,30,RT III,Vestas,V112,9852,"3,300",99000,0.371447591
+W0401,Robertsons Ready-Mix,Riverside,San Gorgonio,2,GE 1.5 SLE,General Electric,GE 1.5 SLE,4657,"1,000",2000,0.557493511
+W0396,Safeway Tracy,San Joaquin,Altamont,2,1,Mitsubishi,MWT-1000,2961,"1,000",2000,0.157492999
+W0261,San Gorgonio Farms Wind Farm,Riverside,San Gorgonio,15,V39s,Vestas,V39,1195,500,7500,0.384812709
+W0261,San Gorgonio Farms Wind Farm,Riverside,San Gorgonio,19,V42s,Vestas,V42,1385,500,9500,0.384812709
+W0261,San Gorgonio Farms Wind Farm,Riverside,San Gorgonio,20,Bonus 65s,Bonus Siemens,B65,201,65,1300,0.384812709
+W0261,San Gorgonio Farms Wind Farm,Riverside,San Gorgonio,55,Bonus 120s,Bonus Siemens,B19/120,284,120,6600,0.384812709
+W0261,San Gorgonio Farms Wind Farm,Riverside,San Gorgonio,2,V90s,Vestas,V90,6362,"3,000",6000,0.384812709
+W0283,San Gorgonio Westwinds II,Riverside,San Gorgonio,48,Micon 700,Micon,700,1521,700,33600,0.284821032
+W0283,San Gorgonio Westwinds II,Riverside,San Gorgonio,14,Micon 700,Micon,700,1810,700,9800,0.284821032
+W0447,San Gorgonio Wind,Riverside,San Gorgonio,33,WT,General Electric,GE 1.5 SLE,4778,"1,500",49500,0.432107965
+W0331,Santa Clara 85C,Alameda,Altamont,178,59099,Vestas,V17,226,90,16020,0.164327725
+W0358,Shiloh I Wind,Solano,Solano,100,All,General Electric,GE 1.5,4657,"1,500",150000,0.293816476
+W0421,"Shiloh III Wind Project, LLC",Solano,Solano,50,All,REpower,MM92,6720,"2,050",102500,0.295399618
+W0422,"Shiloh IV Wind Project, LLC",Solano,Solano,50,All,REpower,MM92,6720,"2,050",102500,0.317785436
+W0384,"Shiloh Wind Project 2, LLC",Solano,Solano,75,All,REpower,MM92,6720,"2,050",153750,0.300022815
+W0289,Sky River Partnership,Kern,Tehachapi,314,WT,Vestas,V27,573,225,70650,0.220149799
+W0357,"Solano Wind 1,2",Solano,Solano,23,misc,Vestas,V47,1735,660,15180,0.237513668
+W0357,"Solano Wind 1,2",Solano,Solano,29,misc,Vestas,V90,6362,"3,000",87000,0.237513668
+W0356,Solano Wind 3,Solano,Solano,31,misc,Vestas,V90,6362,"1,800",55800,0.322653263
+W0356,Solano Wind 3,Solano,Solano,24,misc,Vestas,V90,6362,"3,000",72000,0.322653263
+W0405,Superior Farms,Solano,Outside of Existing,1,1,Mitsubishi,MWT-1000,2961,"1,000",1000,0.166480988
+W0457,Taylor Farms,Monterey,Other Resource Area,1,1,General Electric,GE 1.85 SLE,5345,"1,000",1000,0.444429531
+W0395,Teichert Vernalis,San Joaquin,Outside of Existing,1,1,General Electric,GE 1.5 SLE,4657,"1,500",1500,0.121273907
+W0306,Terra-Gen 251 Wind,Kern,Tehachapi,4,Vestas V-15,Vestas,V15,177,65,260,0.225365174
+W0306,Terra-Gen 251 Wind,Kern,Tehachapi,185,Vestas V-17,Vestas,V17,227,90,16650,0.225365174
+W0270,Terra-Gen Mojave Windfarms,Kern,Tehachapi,68,DW 160,Danwind,23A,415,160,10880,0.272106926
+W0270,Terra-Gen Mojave Windfarms,Kern,Tehachapi,29,MHI 600,Mitsubishi,MWT-600,1590,600,17400,0.272106926
+W0449,Terra-Gen VG Wind,Kern,Tehachapi,1,V47,Vestas,V47,1735,660,660,0.207546516
+W0449,Terra-Gen VG Wind,Kern,Tehachapi,9,Z750,ZOND,Z-750,1963,750,6750,0.207546516
+W0394,Vasco Wind Energy Center,Alameda,Altamont,34,1,Siemens,SWT-2.3-93,8007,"2,300",78200,0.344152164
+W0304,Victory Gardens IV,Kern,Tehachapi,89,Vestas V-27,Vestas,V27,573,225,20025,0.383124966
+W0304,Victory Gardens IV,Kern,Tehachapi,1,Vestas V-47,Vestas,V47,1735,660,660,0.383124966
+W0413,"WAGNER WIND, LLC",Riverside,San Gorgonio,2,Wagner,Vestas,V90,6362,"3,000",6000,0.369179398
+W0400,Wal-Mart Red Bluff,Tehama,Other Resource Area,1,1,General Electric,GE 1.5 SLE,4657,"1,000",1000,0.235200592
+W0300,"Westwind Partners, LLC",Riverside,San Gorgonio,33,Micon 65 kW,Micon,M65/13,201,65,2145,0.184199147
+W0300,"Westwind Partners, LLC",Riverside,San Gorgonio,7,Nordtank 65 kW,Nordtank,NTK 65-13,213,65,455,0.184199147
+W0300,"Westwind Partners, LLC",Riverside,San Gorgonio,60,Micon 108 kW,Micon,108,280,108,6480,0.184199147
+W0361,"Whitewater Hill Partners, LLC",Riverside,San Gorgonio,41,All,General Electric,GE 1.5,3317,"1,500",61500,0.25600122
+W0284,Wind Resource I,Kern,Tehachapi,134,Nordtank 1-134,Nordtank,NTK 65-13,201,65,8710,0.202379901
+W0320,Wind Resource II,Kern,Tehachapi,13,Vestas 1-13,Vestas,V47,1735,660,8580,0.414049251
+W0320,Wind Resource II,Kern,Tehachapi,175,Bonus 1-175,Bonus,65,201,65,11375,0.414049251
+W0271,Wind Stream Operations 6039,Kern,Tehachapi,17,V15s,Vestas,V15,177,65,1105,0.329499055
+W0271,Wind Stream Operations 6039,Kern,Tehachapi,1,660,Vestas,V660,1662,660,660,0.329499055
+W0271,Wind Stream Operations 6039,Kern,Tehachapi,6,750s,ZOND,Z-750,1662,750,4500,0.329499055
+W0272,Wind Stream Operations 6040,Kern,Tehachapi,78,V15s,Vestas,V15,177,65,5070,0.361513434
+W0272,Wind Stream Operations 6040,Kern,Tehachapi,2,750s,ZOND,Z-48,1810,750,1500,0.361513434
+W0273,Wind Stream Operations 6041,Kern,Tehachapi,42,V15,Vestas,V15,177,65,2730,0.179587887
+W0273,Wind Stream Operations 6041,Kern,Tehachapi,3,V17,Vestas,V17,227,90,270,0.179587887
+W0273,Wind Stream Operations 6041,Kern,Tehachapi,2,750s,ZOND,Z-750,1662,750,1500,0.179587887
+W0274,Wind Stream Operations 6042,Kern,Tehachapi,30,V15,Vestas,V15,177,65,1950,0.212104508
+W0274,Wind Stream Operations 6042,Kern,Tehachapi,26,V17,Vestas,V17,227,90,2340,0.212104508
+W0274,Wind Stream Operations 6042,Kern,Tehachapi,1,GE 1.5,General Electric,GE 1.5,3848,"1,500",1500,0.212104508
+W0310,Wind Stream Operations 6111,Kern,Tehachapi,39,V15,Vestas,V15,177,65,2535,0.156391305
+W0310,Wind Stream Operations 6111,Kern,Tehachapi,42,V17,Vestas,V17,227,90,3780,0.156391305
+W0262,Windland Inc Boxcar I,Kern,Tehachapi,2,V-25,Vestas,V25,490,200,400,0.232454007
+W0262,Windland Inc Boxcar I,Kern,Tehachapi,11,V-27,Vestas,V27,572,225,2475,0.232454007
+W0262,Windland Inc Boxcar I,Kern,Tehachapi,1,V-39,Vestas,V39,962,500,500,0.232454007
+W0262,Windland Inc Boxcar I,Kern,Tehachapi,9,Bonus,Bonus,B19/120,283,120,1080,0.232454007
+W0262,Windland Inc Boxcar I,Kern,Tehachapi,2,AAER,AAER,1500,4654,"1,500",3000,0.232454007
+W0301,Windland Inc Boxcar II,Kern,Tehachapi,20,V-25,Vestas,V25,490,200,4000,0.340714522
+W0301,Windland Inc Boxcar II,Kern,Tehachapi,14,V-27,Vestas,V27,572,225,3150,0.340714522
+W0301,Windland Inc Boxcar II,Kern,Tehachapi,1,V-47,Vestas,V47,1734,660,660,0.340714522
+W0419,"Windstar Energy, LLC",Kern,Tehachapi,37,37 WTGs,Gamesa,G80,5027,"2,000",74000,0.294171547
+W0419,"Windstar Energy, LLC",Kern,Tehachapi,23,23 WTGs,Gamesa,G87/2000,5945,"2,000",46000,0.294171547
+W0437,Wintec Energy #2-A,Riverside,San Gorgonio,2,8001-8002,Vestas,V47,1735,660,1320,0.331015241
+W0318,"Wintec Energy, Ltd.",Riverside,San Gorgonio,4,Wintec Palm,Nordtank,NTK 65-13,201,65,260,0.184523283
+W0318,"Wintec Energy, Ltd.",Riverside,San Gorgonio,18,Wintec Palm,Renewtech,WT-100,314,99,1782,0.184523283
