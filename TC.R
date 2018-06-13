@@ -1,5 +1,4 @@
 library('rio')
-Sys.sleep(.5)
 library('plotly')
 tg_comparison<-import("2016_TG_comparison.csv")
 #		w/ labels
